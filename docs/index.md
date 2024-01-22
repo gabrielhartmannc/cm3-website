@@ -2,7 +2,7 @@
 title: Home Page
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Gabriel's CM3 website.
 
 ## A smaller level Heading
 
